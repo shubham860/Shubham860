@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>
+<h3 align="center">Frontend Developer from India</h3>
 
-<!--
-**shubham860/Shubham860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham860" alt="shubham860" /> </p>
 
-Here are some ideas to get you started:
+- 💬 Ask me about **ReactJS, Redux, nextjs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **shubham.chauhan860@gmail.com**
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubham860&show_icons=true&theme=tokyonight" alt="shubham860" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham860&layout=compact&hide=html&theme=tokyonight" alt="shubham860" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shubham-chauhan-5a1821153/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubham-chauhan-5a1821153/" height="30" width="30" /></a>
+</p>
