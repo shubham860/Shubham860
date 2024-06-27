@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham860" alt="shubham860" /> </p>
 
-- 💬 Ask me about **ReactJS, Redux, nextjs**
+- 💬 Ask me about **Javascript, Typescript, ReactJS, Redux, Nextjs**
 
 - 📫 How to reach me **shubham.chauhan860@gmail.com**
 
